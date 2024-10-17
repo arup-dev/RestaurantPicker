@@ -8,7 +8,7 @@ Python script that returns details of top 10 restaurants of a given city<br/>
 
 #**Instructions on how to use**<br/>
 1. Either pull the files or extract the contents of the zip folder to a directory of your choice.<br/>
-2. Then create a file called config.json in the directory and add your api key to it in the following format-<br/>
+2. Then edit the file called config.json in the directory and add your api key to it in the following format-<br/>
 
 > {
     "api_key": "YOUR API KEY HERE"
