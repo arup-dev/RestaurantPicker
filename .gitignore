@@ -1,3 +1,2 @@
 #These contain private API keys#
 config.json
-*.env
